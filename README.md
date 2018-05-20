@@ -1,5 +1,5 @@
-# python-voice-assistant
-Simple python voice assistant with simple functions
+# python-script
+Simple python script
 
 Before running it you need to install the following python modules first:
 speech_recognition (https://pypi.python.org/pypi/SpeechRecognition/)
