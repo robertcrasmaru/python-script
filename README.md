@@ -1,4 +1,4 @@
-# python-voice-asisstant
+# python-voice-assistant
 Simple python script
 
 Before running it you need to install the following python modules first:
